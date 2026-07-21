@@ -32,7 +32,7 @@ window.SITE_I18N = {
 
     "intro.eyebrow": "Who We Are",
     "intro.title": "A Madinah-based engineering partner for thermal & sustainable design",
-    "intro.p1": "Manarat Almadina Engineering (منارة المدينة للهندسة) is an engineering consultancy specializing in thermomechanical systems and sustainability solutions for the Kingdom's built environment.",
+    "intro.p1": "Manarat Almadina Engineering (منارات المدينة للهندسة) is an engineering consultancy specializing in thermomechanical systems and sustainability solutions for the Kingdom's built environment.",
     "intro.p2": "We work alongside developers, institutions, and industrial clients to translate complex thermal and energy challenges into efficient, buildable engineering solutions — grounded in rigorous analysis and regional expertise.",
     "intro.point1": "Deep expertise in HVAC & thermal systems engineering",
     "intro.point2": "Sustainability consulting aligned with Saudi Vision 2030",
@@ -142,7 +142,7 @@ window.SITE_I18N = {
 
     "about.eyebrow": "About Us",
     "about.title": "Manarat Almadina Engineering",
-    "about.p1": "Manarat Almadina Engineering (منارة المدينة للهندسة) is an engineering consultancy headquartered in Madinah, Saudi Arabia, specializing in thermomechanical engineering and sustainability solutions.",
+    "about.p1": "Manarat Almadina Engineering (منارات المدينة للهندسة) is an engineering consultancy headquartered in Madinah, Saudi Arabia, specializing in thermomechanical engineering and sustainability solutions.",
     "about.p2": "Our mission is to deliver technically rigorous, efficient, and sustainable engineering solutions for the Kingdom's built environment — partnering with clients from early feasibility through commissioning.",
     "about.p3": "Our vision is to be a trusted engineering partner for thermal and sustainability challenges across Saudi Arabia — technically credible locally, and built to international standards.",
     "about.why.title": "Why We're Based in Madinah",
@@ -207,7 +207,7 @@ window.SITE_I18N = {
     "form.note": "We typically respond within 1–2 business days.",
     "form.success": "Thank you — your message has been sent. We'll be in touch shortly.",
 
-    "footer.blurb": "Manarat Almadina Engineering (منارة المدينة للهندسة) — thermomechanical engineering and sustainability consulting, headquartered in Madinah, Saudi Arabia.",
+    "footer.blurb": "Manarat Almadina Engineering (منارات المدينة للهندسة) — thermomechanical engineering and sustainability consulting, headquartered in Madinah, Saudi Arabia.",
     "footer.col1.title": "Company",
     "footer.col2.title": "Services",
     "footer.col3.title": "Contact",
@@ -216,8 +216,8 @@ window.SITE_I18N = {
   },
 
   ar: {
-    "meta.title": "منارة المدينة للهندسة | استشاريو الهندسة الحرارية الميكانيكية والاستدامة",
-    "meta.description": "منارة المدينة للهندسة شركة استشارات هندسية مقرها المدينة المنورة، متخصصة في الهندسة الحرارية الميكانيكية وحلول الاستدامة في المملكة العربية السعودية.",
+    "meta.title": "منارات المدينة للهندسة | استشاريو الهندسة الحرارية الميكانيكية والاستدامة",
+    "meta.description": "منارات المدينة للهندسة شركة استشارات هندسية مقرها المدينة المنورة، متخصصة في الهندسة الحرارية الميكانيكية وحلول الاستدامة في المملكة العربية السعودية.",
     "nav.home": "الرئيسية",
     "nav.about": "من نحن",
     "nav.services": "خدماتنا",
@@ -226,12 +226,12 @@ window.SITE_I18N = {
     "nav.contact": "تواصل معنا",
     "nav.cta": "اطلب استشارة",
     "lang.toggle": "English",
-    "brand.name": "منارة المدينة",
+    "brand.name": "منارات المدينة",
     "brand.sub": "للهندسة",
 
     "hero.eyebrow": "الهندسة الحرارية الميكانيكية والاستدامة",
     "hero.title": "هندسة الكفاءة الحرارية <em>و</em>مستقبل مستدام",
-    "hero.lead": "تقدّم منارة المدينة للهندسة تصاميم أنظمة حرارية دقيقة واستشارات استدامة للبيئة العمرانية في المملكة العربية السعودية، انطلاقًا من المدينة المنورة، وبرؤية هندسية للمستقبل.",
+    "hero.lead": "تقدّم منارات المدينة للهندسة تصاميم أنظمة حرارية دقيقة واستشارات استدامة للبيئة العمرانية في المملكة العربية السعودية، انطلاقًا من المدينة المنورة، وبرؤية هندسية للمستقبل.",
     "hero.cta1": "اطلب استشارة",
     "hero.cta2": "استعرض خدماتنا",
     "hero.meta1.n": "هيئة المهندسين",
@@ -245,7 +245,7 @@ window.SITE_I18N = {
 
     "intro.eyebrow": "من نحن",
     "intro.title": "شريكك الهندسي في المدينة المنورة للتصميم الحراري والمستدام",
-    "intro.p1": "منارة المدينة للهندسة شركة استشارات هندسية متخصصة في الأنظمة الحرارية الميكانيكية وحلول الاستدامة للبيئة العمرانية في المملكة.",
+    "intro.p1": "منارات المدينة للهندسة شركة استشارات هندسية متخصصة في الأنظمة الحرارية الميكانيكية وحلول الاستدامة للبيئة العمرانية في المملكة.",
     "intro.p2": "نعمل جنبًا إلى جنب مع المطورين والمؤسسات والعملاء الصناعيين لترجمة التحديات الحرارية والطاقوية المعقدة إلى حلول هندسية فعّالة وقابلة للتنفيذ، مستندين إلى تحليل دقيق وخبرة إقليمية عميقة.",
     "intro.point1": "خبرة عميقة في هندسة أنظمة التكييف والأنظمة الحرارية",
     "intro.point2": "استشارات استدامة متوافقة مع رؤية المملكة 2030",
@@ -354,8 +354,8 @@ window.SITE_I18N = {
     "sustain.pillar3.d": "العمل نحو أطر المباني الخضراء المعترف بها، بما في ذلك LEED ومستدام.",
 
     "about.eyebrow": "من نحن",
-    "about.title": "منارة المدينة للهندسة",
-    "about.p1": "منارة المدينة للهندسة شركة استشارات هندسية مقرها المدينة المنورة، المملكة العربية السعودية، متخصصة في الهندسة الحرارية الميكانيكية وحلول الاستدامة.",
+    "about.title": "منارات المدينة للهندسة",
+    "about.p1": "منارات المدينة للهندسة شركة استشارات هندسية مقرها المدينة المنورة، المملكة العربية السعودية، متخصصة في الهندسة الحرارية الميكانيكية وحلول الاستدامة.",
     "about.p2": "مهمتنا هي تقديم حلول هندسية دقيقة وفعالة ومستدامة للبيئة العمرانية في المملكة، من خلال الشراكة مع عملائنا من مرحلة دراسة الجدوى المبكرة وحتى التشغيل.",
     "about.p3": "رؤيتنا أن نكون الشريك الهندسي الموثوق للتحديات الحرارية والاستدامة في جميع أنحاء المملكة العربية السعودية، بمصداقية محلية وبمعايير عالمية.",
     "about.why.title": "لماذا مقرنا في المدينة المنورة",
@@ -420,11 +420,11 @@ window.SITE_I18N = {
     "form.note": "عادةً ما نرد خلال يوم إلى يومي عمل.",
     "form.success": "شكرًا لك، تم إرسال رسالتك بنجاح. سنتواصل معك قريبًا.",
 
-    "footer.blurb": "منارة المدينة للهندسة — استشارات هندسية حرارية ميكانيكية واستدامة، مقرها المدينة المنورة، المملكة العربية السعودية.",
+    "footer.blurb": "منارات المدينة للهندسة — استشارات هندسية حرارية ميكانيكية واستدامة، مقرها المدينة المنورة، المملكة العربية السعودية.",
     "footer.col1.title": "الشركة",
     "footer.col2.title": "خدماتنا",
     "footer.col3.title": "تواصل",
-    "footer.bottom1": "© 2026 منارة المدينة للهندسة. جميع الحقوق محفوظة.",
+    "footer.bottom1": "© 2026 منارات المدينة للهندسة. جميع الحقوق محفوظة.",
     "footer.bottom2": "نُصمم ونهندس من أجل الأداء."
   }
 };
